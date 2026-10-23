@@ -1,0 +1,47 @@
+1:"$Sreact.fragment"
+2:"/steel-and-sky/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+8:"/steel-and-sky/_next/static/chunks/3e6eu165qswu7.js"
+9:"/steel-and-sky/_next/static/chunks/0v2g6j5_8htak.js"
+a:I[20032,["$2","$8","$9"],"default"]
+b:I[24179,["$2","$8","$9"],"default"]
+c:I[96199,["$2","$8","$9"],"default"]
+d:I[2971,["$2","$8","$9"],"default"]
+e:I[94434,["$2","$8","$9"],"default"]
+f:I[32177,["$2","$8","$9"],"default"]
+10:I[54876,["$2","$8","$9"],"default"]
+11:I[7429,["$2","$8","$9"],"default"]
+12:I[95096,["$2","$8","$9"],"default"]
+13:I[31008,["$2","$8","$9"],"default"]
+14:I[60141,["$2","$8","$9"],"default"]
+15:I[3245,["$2","$8","$9"],"default"]
+16:I[16073,["$2","$8","$9"],"default"]
+17:I[6077,["$2","$8","$9"],"default"]
+18:I[3012,["$2","$8","$9"],"default"]
+21:"ViewportBoundary"
+22:I[97367,["$2"],"$21"]
+23:"MetadataBoundary"
+24:I[97367,["$2"],"$23"]
+25:"$Sreact.suspense"
+26:I[27201,["$2"],"IconMark"]
+:HL["/steel-and-sky/_next/static/chunks/0z--72rv530le.css","style"]
+6:X
+7:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","div",null,{"className":"grain","aria-hidden":"true"}],["$","$Ld",null,{}],["$","$Le",null,{}],["$","main",null,{"children":[["$","$Lf",null,{}],["$","$L10",null,{"items":["Ultra-hard stainless steel","Armor glass","11,000 lbs towing","845 hp","Exoskeleton","One line of light"]}],["$","$L11",null,{}],["$","$L12",null,{}],["$","$L13",null,{}],["$","$L14",null,{}],["$","$L15",null,{}],["$","$L16",null,{}],["$","$L17",null,{}],["$","$L18",null,{}],["$","section",null,{"id":"duel","className":"duel section","children":[["$","header",null,{"className":"section__head duel__head","children":[["$","p",null,{"className":"kicker","data-reveal":"","children":"08 — The duel"}],["$","h2",null,{"className":"split h2","data-reveal":"","aria-label":"Heavy vs. impossible.","children":[["$","span","0",{"className":"split__line","aria-hidden":"true","children":[["$","$1","0",{"children":[false,["$","span",null,{"className":"split__mask","children":["$","span",null,{"className":"split__w","style":{"--i":1},"children":"Heavy"}]}]]}],["$","$1","1",{"children":[" ",["$","span",null,{"className":"split__mask","children":["$","span",null,{"className":"split__w","style":{"--i":2},"children":"vs."}]}]]}]]}],["$","span","1",{"className":"split__line","aria-hidden":"true","children":[["$","$1","0",{"children":[false,["$","span",null,{"className":"split__mask","children":["$","span",null,{"className":"split__w","style":{"--i":3},"children":"impossible."}]}]]}]]}]]}]]}],["$","div",null,{"className":"duel__table","role":"table","aria-label":"08 — The duel","children":[["$","div",null,{"className":"duel__row duel__row--head","role":"row","children":[["$","span",null,{"role":"columnheader","children":"Cybertruck"}],["$","span",null,{"role":"columnheader","className":"duel__vs","children":"VS"}],["$","span",null,{"role":"columnheader","children":"Roadster"}]]}],[["$","div","0–60 mph",{"className":"duel__row","role":"row","data-reveal":"","style":{"--i":0},"children":[["$","span",null,{"role":"cell","className":"duel__val duel__val--l","children":"2.6 s"}],["$","span",null,{"role":"rowheader","className":"duel__label","children":"0–60 mph"}],["$","span",null,{"role":"cell","className":"duel__val duel__val--r is-win","children":"< 0.59 s"}]]}],["$","div","Power / thrust",{"className":"duel__row","role":"row","data-reveal":"","style":{"--i":1},"children":[["$","span",null,{"role":"cell","className":"duel__val duel__val--l","children":"845 hp"}],["$","span",null,{"role":"rowheader","className":"duel__label","children":"Power / thrust"}],["$","span",null,{"role":"cell","className":"duel__val duel__val--r is-win","children":"cold-gas thrusters"}]]}],["$","div","Seats",{"className":"duel__row","role":"row","data-reveal":"","style":{"--i":2},"children":[["$","span",null,{"role":"cell","className":"duel__val duel__val--l is-win","children":"5"}],["$","span",null,{"role":"rowheader","className":"duel__label","children":"Seats"}],["$","span",null,{"role":"cell","className":"duel__val duel__val--r","children":"1–2"}]]}],["$","div","Weight",{"className":"duel__row","role":"row","data-reveal":"","style":{"--i":3},"children":[["$","span",null,{"role":"cell","className":"duel__val duel__val--l","children":"≈ 6,600 lbs"}],"$L19","$L1a"]}],"$L1b"]]}]]}]]}],"$L1c"],["$L1d","$L1e"],"$L1f"]}],"p":"$@20","v":null,"s":"$6"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/steel-and-sky/_next/static/chunks/0z--72rv530le.css","precedence":"next"}],["$","script","script-0",{"src":"/steel-and-sky/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"en","className":"bHLBOW_variable vWfHRa_variable w9RNvG_variable","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L22",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#000000"}]]}],["$","$L24",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$25",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"STEEL & SKY — Cybertruck & Roadster (fan concept)"}],["$","meta","1",{"name":"description","content":"An unofficial fan concept: Cybertruck and Roadster, from brute force to the impossible. Not affiliated with Tesla, Inc."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"name":"color-scheme","content":"only dark"}],["$","link","4",{"rel":"icon","href":"/steel-and-sky/icon.svg?icon.3_1wnqh0l_v7a.svg","sizes":"any","type":"image/svg+xml"}],["$","$L26","5",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@27","v":null,"s":"$6"}},"a":"$@28","u":"$@29","b":"x3lHl8U8UN27qzUKrl_5O"}
+2a:I[97367,["$2"],"OutletBoundary"]
+19:["$","span",null,{"role":"rowheader","className":"duel__label","children":"Weight"}]
+1a:["$","span",null,{"role":"cell","className":"duel__val duel__val--r is-win","children":"lighter"}]
+1b:["$","div","Can it…",{"className":"duel__row","role":"row","data-reveal":"","style":{"--i":4},"children":[["$","span",null,{"role":"cell","className":"duel__val duel__val--l","children":"Tow 11,000 lbs"}],["$","span",null,{"role":"rowheader","className":"duel__label","children":"Can it…"}],["$","span",null,{"role":"cell","className":"duel__val duel__val--r is-win","children":"Fly"}]]}]
+1c:["$","footer",null,{"className":"foot","children":[["$","p",null,{"className":"foot__word","aria-hidden":"true","children":"STEEL & SKY"}],["$","a",null,{"className":"btn btn--solid cut sheen foot__cta","href":"https://www.tesla.com","target":"_blank","rel":"noopener noreferrer","children":"Configure on tesla.com ↗"}],["$","p",null,{"className":"foot__disclaimer","children":"Fan concept. Not affiliated with Tesla, Inc. Names are used descriptively; no official logos."}],["$","ul",null,{"className":"foot__sources mono","children":[["$","li","Cybertruck figures: public sources, 2026 — pending verification on tesla.com.",{"children":"Cybertruck figures: public sources, 2026 — pending verification on tesla.com."}],["$","li","Roadster figures: as reported from the 15 Oct 2026 reveal (CNBC, Electrek, InsideEVs).",{"children":"Roadster figures: as reported from the 15 Oct 2026 reveal (CNBC, Electrek, InsideEVs)."}],["$","li","Timeline: The Register (2008), TechCrunch (2017), NPR (2019), CNBC (2023, 2026).",{"children":"Timeline: The Register (2008), TechCrunch (2017), NPR (2019), CNBC (2023, 2026)."}]]}],["$","p",null,{"className":"foot__small mono","children":"© 2026 Fan concept for a portfolio"}]]}]
+1d:["$","script","script-0",{"src":"/steel-and-sky/_next/static/chunks/3e6eu165qswu7.js","async":true}]
+1e:["$","script","script-1",{"src":"/steel-and-sky/_next/static/chunks/0v2g6j5_8htak.js","async":true}]
+1f:["$","$L2a",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@2b"}]}]
+6:300
+2b:null
+29:true
+6:C
+28:0
+5:"$undefined"
+27:"$undefined"
+20:"$undefined"
